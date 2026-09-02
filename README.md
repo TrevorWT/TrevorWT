@@ -12,7 +12,6 @@ A passionate developer focused on building clean, efficient, and user-centric so
   </a>
 </p>
 
-*(Tip: You can edit the `i=...` list in the image URL above to match your exact tools!)*
 
 ---
 
