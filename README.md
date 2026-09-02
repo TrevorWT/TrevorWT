@@ -18,7 +18,7 @@ A passionate developer focused on building clean, efficient, and user-centric so
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrevorWT&show_icons=true&theme=catppuccin_mocha&count_private=true" alt="TrevorWT's GitHub Stats" width="49%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=TrevorWT&show_icons=true&theme=catppuccin_mocha&count_private=true" alt="TrevorWT's GitHub Stats" width="49%" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrevorWT&layout=compact&theme=catppuccin_mocha" alt="Top Languages" width="49%" />
 </p>
 
