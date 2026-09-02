@@ -1,9 +1,17 @@
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,cpp,docker,kubernetes,gcp,cloudflare,git,github,arch,vscode,idea,obsidian,figma,godot&theme=dark" height="30" align="middle" alt="Tech Stack" />
-  </a>
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=90&width=250&color=0:1e1e2e,100:cba6f7&text=Trevor%20WT&fontFamily=JetBrains%20Mono&fontSize=32&fontColor=cdd6f4&reversal=true" align="middle" alt="Trevor WT" />
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00000000&text=Trevor%20WT&fontFamily=JetBrains%20Mono&fontSize=40&fontColor=cdd6f4&fontAlign=50&fontAlignY=50&width=100&height=48&v=1" height="48" align="middle" alt="Trevor WT" />
   &nbsp;&nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,cpp,docker,kubernetes,gcp,cloudflare,git,github,arch,vscode,idea,obsidian,figma,godot&theme=dark" height="32" align="middle" alt="Tech Stack" />
+  </a>
+</p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=1&pause=1000000000&color=CDD6F4&width=250&height=40&vCenter=true&lines=Trevor+WT" height="40" align="middle" alt="Trevor WT" />
+  &nbsp;&nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,cpp,docker,kubernetes,gcp,cloudflare,git,github,arch,vscode,idea,obsidian,figma,godot&theme=dark" height="40" align="middle" alt="Tech Stack" />
+  </a>
 </p>
 
 <p align="center">
