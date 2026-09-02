@@ -7,7 +7,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=1&pause=1000000000&color=CDD6F4&width=250&height=40&vCenter=true&lines=Trevor+WT" height="40" align="middle" alt="Trevor WT" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=1&pause=1000000000&color=CDD6F4&width=230&height=40&vCenter=true&lines=Trevor+WT" height="40" align="middle" alt="Trevor WT" />
   &nbsp;&nbsp;
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,go,cpp,docker,kubernetes,gcp,cloudflare,git,github,arch,vscode,idea,obsidian,figma,godot&theme=dark" height="40" align="middle" alt="Tech Stack" />
